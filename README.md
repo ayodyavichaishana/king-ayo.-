@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <h1>🔱🤖 KING AYO BOT 🤖🔱</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
@@ -99,7 +99,7 @@ QR Code generator and full instructions available there.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-## Queen Amdi Team
+## KING AYO
 
 <table>
 										<tbody>
@@ -113,7 +113,7 @@ QR Code generator and full instructions available there.
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
+												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="KING AYO"></a></td>
 												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://i.ibb.co/HzfN8pD/5-Joka.jpg" width="200" height="200" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
                         <td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
 											</tr>
